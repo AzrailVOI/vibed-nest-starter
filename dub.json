@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"azrai"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.10.1"
+	},
+	"description": "A simple vibe.d server application.",
+	"license": "proprietary",
+	"name": "testserver2"
+}

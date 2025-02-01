@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="DLANGUAGE_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="vibe-d-0.10.1" level="project" />
+    <orderEntry type="library" name="vibe-http-1.2.1" level="project" />
+    <orderEntry type="library" name="diet-ng-1.8.3" level="project" />
+    <orderEntry type="library" name="vibe-inet-1.1.0" level="project" />
+    <orderEntry type="library" name="vibe-core-2.9.6" level="project" />
+    <orderEntry type="library" name="eventcore-0.9.35" level="project" />
+    <orderEntry type="library" name="taggedalgebraic-0.11.23" level="project" />
+    <orderEntry type="library" name="vibe-container-1.4.1" level="project" />
+    <orderEntry type="library" name="stdx-allocator-2.77.5" level="project" />
+    <orderEntry type="library" name="vibe-inet:textfilter-1.1.0" level="project" />
+    <orderEntry type="library" name="vibe-serialization-1.0.7" level="project" />
+    <orderEntry type="library" name="vibe-stream-1.1.1" level="project" />
+    <orderEntry type="library" name="vibe-inet:crypto-1.1.0" level="project" />
+    <orderEntry type="library" name="mir-linux-kernel-1.2.1" level="project" />
+    <orderEntry type="library" name="vibe-stream:tls-1.1.1" level="project" />
+    <orderEntry type="library" name="openssl-3.3.4" level="project" />
+    <orderEntry type="library" name="vibe-d:mail-0.10.1" level="project" />
+    <orderEntry type="library" name="vibe-d:mongodb-0.10.1" level="project" />
+    <orderEntry type="library" name="vibe-d:redis-0.10.1" level="project" />
+    <orderEntry type="library" name="vibe-d:utils-0.10.1" level="project" />
+    <orderEntry type="library" name="vibe-d:web-0.10.1" level="project" />
+  </component>
+</module>
