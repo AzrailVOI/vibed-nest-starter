@@ -16,10 +16,6 @@ class HelloModule {
 
     /// Регистрация маршрутов, специфичных для модуля "hello"
     void registerRoutes(URLRouter router) {
-        // Регистрируем GET маршрут /hello/random, который вызывает метод контроллера
-        router.get("/random", (HTTPServerRequest req, HTTPServerResponse res) {
-            helloController.getRandom(req, res);
-        });
 
         router.get("/hello", (HTTPServerRequest req, HTTPServerResponse res) {
             helloController.getHello(req, res);
